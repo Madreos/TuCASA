@@ -5,5 +5,7 @@
   <head>
   </head>
   <body>
+<center>
     <h1>todo bien?</h1>
+    </center>
   </body>
